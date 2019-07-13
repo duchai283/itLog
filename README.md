@@ -6,7 +6,7 @@
 
 ### `npm install`
 
-### `it-logger`
+### `cd it-logger`
 
 ### `npm install`
 
